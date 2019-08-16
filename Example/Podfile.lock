@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PYBaseEventHandler (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PYBaseEventHandler (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  PYBaseEventHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PYBaseEventHandler: 413cdd10eada2ddedd6630676a31d6b22de4c093
+
+PODFILE CHECKSUM: d6a72dd17cf719bb6e5e1b16d7635816f7921643
+
+COCOAPODS: 1.8.0.beta.1
