@@ -4,14 +4,14 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - PYBaseEventHandler (0.1.0)
+  - PYBaseEventHandler (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
   - PYBaseEventHandler (from `../`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  PYBaseEventHandler: 2467b8cde3981012f62494cfe9c70a118e385445
+  PYBaseEventHandler: 3ab74618842e3bf5025b7c3baec1ae2c25cd7b24
 
 PODFILE CHECKSUM: d6a72dd17cf719bb6e5e1b16d7635816f7921643
 
