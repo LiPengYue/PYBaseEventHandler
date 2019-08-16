@@ -1,7 +1,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name             = 'PYBaseEventHandler'
+  s.name             = 'PYBaseEventsHandler'
   s.version          = '0.1.0'
   s.summary          = '夸层级事件传递、数据绑定的工具'
 
