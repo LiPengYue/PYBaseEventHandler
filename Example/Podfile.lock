@@ -11,7 +11,7 @@ DEPENDENCIES:
   - PYBaseEventHandler (from `../`)
 
 SPEC REPOS:
-  trunk:
+  https://github.com/CocoaPods/Specs.git:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  PYBaseEventHandler: 413cdd10eada2ddedd6630676a31d6b22de4c093
+  PYBaseEventHandler: 2467b8cde3981012f62494cfe9c70a118e385445
 
 PODFILE CHECKSUM: d6a72dd17cf719bb6e5e1b16d7635816f7921643
 
