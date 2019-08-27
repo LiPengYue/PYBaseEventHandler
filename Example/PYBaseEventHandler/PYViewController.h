@@ -7,7 +7,7 @@
 //
 
 @import UIKit;
-#import <NSObject+SignalHandler.h>
+#import <PYBaseEventHandler.h>
 @interface PYViewController : UIViewController
 
 @end

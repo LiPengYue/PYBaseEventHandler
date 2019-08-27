@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - PYBaseEventHandler (0.1.4)
+  - PYBaseEventHandler (0.2.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  PYBaseEventHandler: 66c0ac323c88638d53ddf837346dc69d10eda298
+  PYBaseEventHandler: 47b896a33bc5128ffd639746c561401a3797a902
 
 PODFILE CHECKSUM: d6a72dd17cf719bb6e5e1b16d7635816f7921643
 
